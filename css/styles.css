@@ -1,0 +1,45 @@
+header {
+    background-image:;
+
+}
+
+body {
+    background-color: pink;
+}
+
+
+.headimage {
+
+}
+
+.body {
+ width: 100%;
+
+}
+
+.card {
+width: 100%;
+}
+
+.ingrid {
+float: left;
+padding-left; 3px;
+width: 46%;
+block-size: 40%;
+margin-left: 2%;
+background-color: aliceblue;
+}
+
+.steps {
+float: right;
+width: 46%;
+block-size: 40%;
+margin-right: 2%;
+background-color: aliceblue;
+
+}
+
+footer {
+background-image: https://images.unsplash.com/photo-1516824711718-9c1e683412ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80;
+
+}
